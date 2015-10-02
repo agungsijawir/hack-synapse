@@ -7,9 +7,11 @@ inspired by Mac Spotlight, Indicator Synapse for Elementary OS, and [Xdotool](ht
 ### Installation
 Install **Indicator Synapse** in ubuntu. Can be installed with the following commands:
 
-```sudo add-apt-repository ppa:noobslab/apps``` <br>
-```sudo apt-get update``` <br>
-```sudo apt-get install indicator-synapse``` <br>
+```
+sudo add-apt-repository ppa:noobslab/apps 
+sudo apt-get update
+sudo apt-get install indicator-synapse
+```
 
 
 
