@@ -38,3 +38,4 @@ x:1568 y:9 screen:0 window:62914568
 **Step 2 :** Add keyboard shortcut for Indicator Synapse. Go to
 ```System Settings``` -> ```Keyboard``` -> ```Shortcuts``` -> ```Custom Shortcuts```
 
+
