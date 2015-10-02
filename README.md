@@ -21,7 +21,6 @@ sudo apt-get install xdotool
 
 ```
 
-<br>
 ### Adding keyboard shortcut for Synapse Indicator (Hack)
 
 **Step 1 :** Move your mouse over the synapse icon and get mouse location via xdotool in terminal. Like this,
