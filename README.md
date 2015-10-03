@@ -4,7 +4,13 @@ Hack indicator synapse using [xdotool](https://github.com/jordansissel/xdotool) 
 inspired by Mac Spotlight, [Indicator Synapse](http://www.elementaryos-fr.org/documentation/indicators/indicator-synapse/) for Elementary OS, and [Xdotool](https://github.com/jordansissel/xdotool). Powered by [Piotr Wittchen](http://blog.wittchen.biz.pl/synapse-indicator-spotlight-for-ubuntu/).
 
 <br>
-<br><br>
+<<<<<<< HEAD
+=======
+
+
+![](https://github.com/indrabinridwan/hack-synapse/blob/master/hack.gif)
+
+
 ### Installation
 Install **Indicator Synapse** in ubuntu. Can be installed with the following commands,
 
