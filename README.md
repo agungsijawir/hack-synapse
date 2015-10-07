@@ -3,6 +3,8 @@
 Hack indicator synapse using [xdotool](https://github.com/jordansissel/xdotool) for ubuntu. 
 inspired by Mac Spotlight, [Indicator Synapse](http://www.elementaryos-fr.org/documentation/indicators/indicator-synapse/) for Elementary OS, and [Xdotool](https://github.com/jordansissel/xdotool). Powered by [Piotr Wittchen](http://blog.wittchen.biz.pl/synapse-indicator-spotlight-for-ubuntu/).
 
+The idea is to activate click mouse on specific location (x,y). The specific location is targeted to `finder` icon located on `system icon` area.
+
 <br>
 
 ![](https://github.com/indrabinridwan/hack-synapse/blob/master/hack.gif)
